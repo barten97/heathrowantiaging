@@ -874,10 +874,20 @@ body {
     text-align: center !important;
   }
 }
-.cid-ringWkhvxN {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1-1920x1080.jpg");
+.cid-rinlGu1Boo {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/mbr-1920x1260.jpg");
+}
+.cid-rinlGu1Boo .mbr-section-subtitle {
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-rinlGu1Boo .mbr-section-btn,
+  .cid-rinlGu1Boo .mbr-section-subtitle,
+  .cid-rinlGu1Boo .mbr-section-title {
+    text-align: center !important;
+  }
 }
 .cid-rinjr2xDGj {
   padding-top: 60px;
