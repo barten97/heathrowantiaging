@@ -877,7 +877,97 @@ body {
 .cid-ringWkhvxN {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1080.jpg");
+}
+.cid-rinjr2xDGj {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rinjr2xDGj *:focus {
+  outline: none;
+}
+.cid-rinjr2xDGj .input-wrap {
+  padding-bottom: 1rem;
+}
+.cid-rinjr2xDGj .form-control,
+.cid-rinjr2xDGj .field {
+  width: 100%;
+  min-height: auto;
+  color: #232323 !important;
+  border: none;
+  border-radius: 0 !important;
+  background-color: transparent;
+  padding: .5rem 0rem;
+  border-bottom: 1px solid #232323;
+}
+.cid-rinjr2xDGj .form-control:focus,
+.cid-rinjr2xDGj .field:focus {
+  outline: none;
+}
+.cid-rinjr2xDGj input::-webkit-input-placeholder {
+  color: #232323;
+}
+.cid-rinjr2xDGj input::-moz-placeholder {
+  color: #232323;
+}
+.cid-rinjr2xDGj textarea::-webkit-input-placeholder {
+  color: #232323;
+}
+.cid-rinjr2xDGj textarea::-moz-placeholder {
+  color: #232323;
+}
+.cid-rinjr2xDGj .soc-item {
+  display: inline-block;
+  margin: 0 .1rem .2rem .1rem;
+  padding: 10px 11px 0 11px;
+  border: 1px solid #66458e;
+  border-radius: 50%;
+}
+.cid-rinjr2xDGj .soc-item:hover {
+  opacity: .5;
+}
+.cid-rinjr2xDGj .soc-item .socicon {
+  font-size: 1.5rem;
+  color: #66458e;
+}
+.cid-rinjr2xDGj .days-column,
+.cid-rinjr2xDGj .hours-column {
+  display: inline-block;
+}
+.cid-rinjr2xDGj .days-column span,
+.cid-rinjr2xDGj .hours-column span {
+  display: block;
+}
+.cid-rinjr2xDGj .input-group-btn {
+  display: block;
+}
+@media (max-width: 767px) {
+  .cid-rinjr2xDGj .days-column {
+    padding-right: 0 !important;
+  }
+  .cid-rinjr2xDGj .hours-column {
+    max-width: 50% !important;
+  }
+  .cid-rinjr2xDGj .opening-hours {
+    padding-bottom: 48px !important;
+  }
+}
+.cid-rinjr2xDGj .follow-title,
+.cid-rinjr2xDGj .social-list {
+  text-align: center;
+}
+.cid-rink5HdvOd {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-rink5HdvOd .media-container-row {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-rink5HdvOd .media-container-row .mbr-text {
+  color: #ffffff;
 }
 .cid-rinesksyKk {
   padding-top: 30px;
