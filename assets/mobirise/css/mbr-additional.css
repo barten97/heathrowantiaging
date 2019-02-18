@@ -1150,97 +1150,130 @@ body {
 }
 .cid-riouUrn49q {
   padding-top: 105px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/cancer-testing-2000x1028.jpg");
 }
 .cid-riouUrn49q .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rio2rJSzTa {
-  padding-top: 30px;
-  padding-bottom: 45px;
-  background-color: #f8f8f8;
+.cid-riouUrn49q .mbr-section-subtitle B {
+  color: #232323;
 }
-.cid-rio2rJSzTa .card {
-  display: block;
-  position: relative;
+.cid-rioJNGBuSl {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
-.cid-rio2rJSzTa .card .card-wrapper {
-  background: #ffffff;
-  height: 1%;
+.cid-rioJNGBuSl .card-text,
+.cid-rioJNGBuSl .mbr-section-subtitle {
+  color: #8d97ad;
 }
-.cid-rio2rJSzTa .card .card-wrapper .card-img {
-  position: relative;
-  overflow: hidden;
-  border-radius: 0;
-  z-index: 1;
-}
-.cid-rio2rJSzTa .card .card-wrapper .card-img img {
-  transition: all .5s;
-}
-.cid-rio2rJSzTa .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 1.5rem;
-  left: 1.5rem;
-  z-index: 1;
-  border-radius: 100px;
-  background-color: #365c9a;
-}
-.cid-rio2rJSzTa .card .card-wrapper .card-img .img-text span {
-  display: block;
-}
-.cid-rio2rJSzTa .card .card-wrapper .card-box {
-  padding: 1.5rem;
-}
-.cid-rio2rJSzTa .mbr-card-text {
+.cid-rioJNGBuSl .main,
+.cid-rioJNGBuSl .main-reverse {
+  border: 1px solid rgba(120, 130, 140, 0.13);
   margin: 0;
-}
-.cid-rio2rJSzTa .mbr-section-title {
-  text-align: center;
-}
-.cid-rio6t0zi3d {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f8f8f8;
-}
-.cid-rio6t0zi3d .card {
-  display: block;
-  position: relative;
-}
-.cid-rio6t0zi3d .card .card-wrapper {
   background: #ffffff;
-  height: 1%;
 }
-.cid-rio6t0zi3d .card .card-wrapper .card-img {
-  position: relative;
+.cid-rioJNGBuSl .img-wrap {
+  width: 100% !important;
+  height: 100% !important;
+}
+.cid-rioJNGBuSl .main-reverse {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+.cid-rioJNGBuSl .image-element {
+  padding: 0;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rioJNGBuSl .image-element img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+.cid-rioJNGBuSl .text-element {
+  padding: 3rem 2rem;
+}
+.cid-rioJNGBuSl .mbr-iconfont {
+  font-size: 3rem;
+  color: #188ef4;
+}
+.cid-rioJNGBuSl .bottom-radius {
   overflow: hidden;
-  border-radius: 0;
-  z-index: 1;
+  border-bottom-left-radius: .25rem;
+  border-bottom-right-radius: .25rem;
 }
-.cid-rio6t0zi3d .card .card-wrapper .card-img img {
-  transition: all .5s;
+.cid-rioJNGBuSl .top-radius {
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+  overflow: hidden;
 }
-.cid-rio6t0zi3d .card .card-wrapper .card-img .img-text {
-  position: absolute;
-  padding: .6rem;
-  top: 1.5rem;
-  left: 1.5rem;
-  z-index: 1;
-  border-radius: 100px;
-  background-color: #365c9a;
+@media (max-width: 991px) {
+  .cid-rioJNGBuSl .main-reverse {
+    -webkit-flex-direction: row;
+    flex-direction: row;
+  }
 }
-.cid-rio6t0zi3d .card .card-wrapper .card-img .img-text span {
-  display: block;
+@media (max-width: 767px) {
+  .cid-rioJNGBuSl .container {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .cid-rioJNGBuSl .image-element,
+  .cid-rioJNGBuSl .text-element {
+    margin-bottom: 0;
+  }
+  .cid-rioJNGBuSl .main:first-child {
+    padding-top: 0;
+  }
 }
-.cid-rio6t0zi3d .card .card-wrapper .card-box {
-  padding: 1.5rem;
+.cid-rioJNGBuSl .card-text,
+.cid-rioJNGBuSl .mbr-section-btn B {
+  color: #a25b0d;
 }
-.cid-rio6t0zi3d .mbr-card-text {
-  margin: 0;
+.cid-rioJNGBuSl .card-text,
+.cid-rioJNGBuSl .mbr-section-btn {
+  color: #333333;
 }
-.cid-rio6t0zi3d .mbr-section-title {
-  text-align: center;
+.cid-rioJNGBuSl .mbr-title,
+.cid-rioJNGBuSl .card-img {
+  color: #a25b0d;
+}
+.cid-rioJNGBuSl .mbr-title,
+.cid-rioJNGBuSl .card-img B {
+  color: #365c9a;
+}
+.cid-riosf5JN4T {
+  overflow: hidden !important;
+  background-image: url("../../../assets/images/lab-testing-1000x667.jpg");
+}
+.cid-riosf5JN4T .animated-element {
+  color: #efefef;
+}
+.cid-riosf5JN4T .img-block {
+  -webkit-align-self: center;
+  align-self: center;
+}
+.cid-riosf5JN4T .mbr-section-subtitle {
+  color: #efefef;
+}
+@media (min-width: 992px) {
+  .cid-riosf5JN4T .img-block {
+    padding-right: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-riosf5JN4T .mbr-figure {
+    margin-top: 1rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-riosf5JN4T .img-block {
+    padding-bottom: 2rem;
+  }
 }
 .cid-rioa7uC6HT {
   padding-top: 45px;
@@ -1284,35 +1317,6 @@ body {
 }
 .cid-rioa7uC6HT .mbr-section-title {
   text-align: center;
-}
-.cid-riosf5JN4T {
-  overflow: hidden !important;
-  background-image: url("../../../assets/images/lab-testing-1000x667.jpg");
-}
-.cid-riosf5JN4T .animated-element {
-  color: #efefef;
-}
-.cid-riosf5JN4T .img-block {
-  -webkit-align-self: center;
-  align-self: center;
-}
-.cid-riosf5JN4T .mbr-section-subtitle {
-  color: #efefef;
-}
-@media (min-width: 992px) {
-  .cid-riosf5JN4T .img-block {
-    padding-right: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-riosf5JN4T .mbr-figure {
-    margin-top: 1rem;
-  }
-}
-@media (max-width: 768px) {
-  .cid-riosf5JN4T .img-block {
-    padding-bottom: 2rem;
-  }
 }
 .cid-rinWxFiQhr {
   padding-top: 60px;
