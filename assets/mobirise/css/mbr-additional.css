@@ -1409,19 +1409,53 @@ body {
 .cid-rinWxFTnHo .media-container-row .mbr-text {
   color: #ffffff;
 }
-.cid-rioM2yi46j {
-  padding-top: 105px;
+.cid-rioODKEA15 {
+  padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/lab-testing-results-827x564.jpg");
+  background-image: url("../../../assets/images/lab-test-688x324.jpg");
 }
-.cid-rioM2yi46j .mbr-section-subtitle {
-  color: #767676;
+.cid-rioODKEA15 .card {
+  display: block;
+  position: relative;
 }
-.cid-rioM2yi46j .mbr-section-subtitle B {
+.cid-rioODKEA15 .card .card-wrapper {
+  background: #fac769;
+  height: 1%;
+}
+.cid-rioODKEA15 .card .card-wrapper .card-img {
+  position: relative;
+  overflow: hidden;
+  border-radius: 0;
+  z-index: 1;
+}
+.cid-rioODKEA15 .card .card-wrapper .card-img img {
+  transition: all .5s;
+}
+.cid-rioODKEA15 .card .card-wrapper .card-img .img-text {
+  position: absolute;
+  padding: .6rem;
+  top: 1.5rem;
+  left: 1.5rem;
+  z-index: 1;
+  border-radius: 100px;
+  background-color: #365c9a;
+}
+.cid-rioODKEA15 .card .card-wrapper .card-img .img-text span {
+  display: block;
+}
+.cid-rioODKEA15 .card .card-wrapper .card-box {
+  padding: 1.5rem;
+}
+.cid-rioODKEA15 .mbr-card-text {
+  color: #ffffff;
+  margin: 0;
+}
+.cid-rioODKEA15 .mbr-section-title {
   color: #ffffff;
 }
-.cid-rioM2yi46j .mbr-section-title SPAN {
-  color: #ffffff;
+.cid-rioODKEA15 .mbr-card-text,
+.cid-rioODKEA15 .mbr-section-btn {
+  color: #232323;
 }
 .cid-rioM2BBQbo {
   padding-top: 60px;
