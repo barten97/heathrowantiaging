@@ -1230,10 +1230,10 @@ body {
 .cid-rinlGu1Boo {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #f1e3c9;
+  background-color: #7c7d5b;
 }
 .cid-rinlGu1Boo .mbr-section-subtitle {
-  color: #7b6634;
+  color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-rinlGu1Boo .mbr-section-btn,
@@ -1243,12 +1243,12 @@ body {
   }
 }
 .cid-rinlGu1Boo .mbr-section-title {
-  color: #7b6634;
+  color: #ffffff;
 }
 .cid-rioN6PsqYf {
   padding-top: 105px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1074.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
 }
 .cid-rioN6PsqYf .mbr-section-subtitle {
   color: #767676;
@@ -1262,7 +1262,7 @@ body {
 .cid-rinjr2xDGj {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #faf4e7;
 }
 .cid-rinjr2xDGj *:focus {
   outline: none;
@@ -1274,28 +1274,28 @@ body {
 .cid-rinjr2xDGj .field {
   width: 100%;
   min-height: auto;
-  color: #232323 !important;
+  color: #814913 !important;
   border: none;
   border-radius: 0 !important;
   background-color: transparent;
   padding: .5rem 0rem;
-  border-bottom: 1px solid #232323;
+  border-bottom: 1px solid #814913;
 }
 .cid-rinjr2xDGj .form-control:focus,
 .cid-rinjr2xDGj .field:focus {
   outline: none;
 }
 .cid-rinjr2xDGj input::-webkit-input-placeholder {
-  color: #232323;
+  color: #814913;
 }
 .cid-rinjr2xDGj input::-moz-placeholder {
-  color: #232323;
+  color: #814913;
 }
 .cid-rinjr2xDGj textarea::-webkit-input-placeholder {
-  color: #232323;
+  color: #814913;
 }
 .cid-rinjr2xDGj textarea::-moz-placeholder {
-  color: #232323;
+  color: #814913;
 }
 .cid-rinjr2xDGj .soc-item {
   display: inline-block;
@@ -1340,7 +1340,7 @@ body {
 .cid-rink5HdvOd {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-color: #7b6634;
 }
 .cid-rink5HdvOd .media-container-row {
   -webkit-flex-wrap: wrap;
@@ -1728,12 +1728,12 @@ body {
   color: #767676;
 }
 .cid-rinesksyKk .mbr-title {
-  color: #ec6963;
+  color: #7b6634;
 }
 .cid-rinf7sr6Ej {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #fac769;
+  background-color: #814913;
 }
 .cid-rinf7sr6Ej .main {
   -webkit-flex-direction: row-reverse;
@@ -3880,7 +3880,7 @@ body {
   background-image: url("../../../assets/images/order-supplements-online-1400x420.png");
 }
 .cid-rirxxDMIzQ .mbr-section-subtitle {
-  color: #ca4336;
+  color: #7b6634;
 }
 .cid-rirxxDMIzQ .mbr-section-title,
 .cid-rirxxDMIzQ .mbr-text,
@@ -4013,28 +4013,28 @@ body {
 }
 .cid-rirjQs5imX .form-control,
 .cid-rirjQs5imX .form-control:focus {
-  color: #ca4336 !important;
+  color: #814913 !important;
   border: none;
   border-radius: 0 !important;
   background-color: transparent;
   padding: .5rem 0rem;
-  border-bottom: 1px solid #ca4336;
+  border-bottom: 1px solid #814913;
 }
 .cid-rirjQs5imX .form-control:focus,
 .cid-rirjQs5imX .form-control:focus:focus {
   outline: none;
 }
 .cid-rirjQs5imX input::-webkit-input-placeholder {
-  color: #ca4336;
+  color: #814913;
 }
 .cid-rirjQs5imX input::-moz-placeholder {
-  color: #ca4336;
+  color: #814913;
 }
 .cid-rirjQs5imX textarea::-webkit-input-placeholder {
-  color: #ca4336;
+  color: #814913;
 }
 .cid-rirjQs5imX textarea::-moz-placeholder {
-  color: #ca4336;
+  color: #814913;
 }
 .cid-rirjQs5imX .mbr-iconfont {
   font-size: 48px;
@@ -4102,7 +4102,7 @@ body {
 .cid-rirjz2kTa1 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #faf4e7;
 }
 .cid-rirjz2kTa1 *:focus {
   outline: none;
@@ -4141,7 +4141,7 @@ body {
   display: inline-block;
   margin: 0 .1rem .2rem .1rem;
   padding: 10px 11px 0 11px;
-  border: 1px solid #66458e;
+  border: 1px solid #579311;
   border-radius: 50%;
 }
 .cid-rirjz2kTa1 .soc-item:hover {
@@ -4149,7 +4149,7 @@ body {
 }
 .cid-rirjz2kTa1 .soc-item .socicon {
   font-size: 1.5rem;
-  color: #66458e;
+  color: #579311;
 }
 .cid-rirjz2kTa1 .days-column,
 .cid-rirjz2kTa1 .hours-column {
@@ -4176,12 +4176,12 @@ body {
 .cid-rirjz2kTa1 .follow-title,
 .cid-rirjz2kTa1 .social-list {
   text-align: center;
-  color: #365c9a;
+  color: #7b6634;
 }
 .cid-rirjz3l2GA {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-color: #814913;
 }
 .cid-rirjz3l2GA .media-container-row {
   -webkit-flex-wrap: wrap;
